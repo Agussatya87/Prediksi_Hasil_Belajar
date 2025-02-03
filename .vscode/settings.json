@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 15,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Noctis Minimus",
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
